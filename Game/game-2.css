@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Comic Sans MS', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+  margin: 10% 45%;
+  width: 550px;
+  line-height: 40px;
+}
+
+.inputs{
+padding: 10px;
+padding-left: 0%;
+width: 100%;
+}
+
+h1{
+  font-size: 50px;
+  padding-bottom: 50px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.inputField{
+  width: 50%;
+  height: 40px;
+  font-size: 18px;
+  padding: 20px;
+  padding-left: 10px;
+}
+#submitBtn{
+  padding: 6.5px;
+  width: 30%;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+span{
+  color: blue;
+}
